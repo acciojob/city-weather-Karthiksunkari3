@@ -1,1 +1,18 @@
+.search {
+  margin: 20px;
+}
+
+.search-input {
+  padding: 5px;
+  width: 200px;
+}
+
+.search-button {
+  padding: 5px 10px;
+}
+
+.weather {
+  margin: 20px;
+  font-size: 24px;
+}
 
